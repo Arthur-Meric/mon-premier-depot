@@ -4,7 +4,12 @@ Les titres (Headings)
 ## Titre (Moyen)
 ### Titre (petit)
 
-&nbsp;Formatage du texte  
+
+
+
+
+---
+Formatage du texte  
   
 **texte gras**  
 *texte italique*	
