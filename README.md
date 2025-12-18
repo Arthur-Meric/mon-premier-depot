@@ -44,11 +44,11 @@ Liste de tâches (checkboxes)
 
 Les liens
 
-[Texte du lien](https://github.com/Arthur-Meric)
+[Lien vers section du README](#titre-moyen) 
 
-[Lien vers section](#titre-moyen) 
+[Lien vers fichier du repository](./autre_doc.txt)
 
-[Fichier local](./autre_doc.txt)
+[Lien vers page externe](https://github.com/Arthur-Meric)
 
 
 
@@ -111,6 +111,7 @@ Emojis
 Badges
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
 ![Tests](https://img.shields.io/badge/tests-passing-green)
 
 
