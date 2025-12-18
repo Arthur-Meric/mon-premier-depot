@@ -71,7 +71,7 @@ Maintenant simplement redimensionnée et centrée :
 
 
 Intégrer des vidéos YouTube (il faut mettre une image *liée* à une vidéo)
-[![Texte alternatif de l'image (en théorie)](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
+[![Texte alternatif de l'image (en théorie)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1004px-Logo_of_YouTube_%282015-2017%29.svg.png)]
 (https://www.youtube.com/watch?v=VIDEO_ID)
 
 
