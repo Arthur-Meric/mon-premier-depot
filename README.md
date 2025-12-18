@@ -57,9 +57,9 @@ Les liens
 
 Les images
 
-![Texte alternatif ici (en théorie)](https://avatars.githubusercontent.com/u/149785053?v=4.png) (cette image-ci s'ouvrira dans un nouvel onglet si on clique dessus)
+![Texte alternatif de l'image (en théorie)](https://avatars.githubusercontent.com/u/149785053?v=4.png) (cette image-ci s'ouvrira dans un nouvel onglet si on clique dessus)
 
-[![Texte alternatif ici (en théorie)](https://avatars.githubusercontent.com/u/149785053?v=4.png)](autre_doc.txt) (cette image-ci mènera à un document du répository si on clique dessus)
+[![Texte alternatif de l'image (en théorie)](https://avatars.githubusercontent.com/u/149785053?v=4.png)](autre_doc.txt) (cette image-ci mènera à un document du répository si on clique dessus)
 
 
 Maintenant simplement redimensionnée et centrée :
@@ -68,6 +68,11 @@ Maintenant simplement redimensionnée et centrée :
 
 
 
+
+
+Intégrer des vidéos YouTube (il faut mettre une image *liée* à une vidéo)
+[![Texte alternatif de l'image (en théorie)](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
+(https://www.youtube.com/watch?v=VIDEO_ID)
 
 
 
