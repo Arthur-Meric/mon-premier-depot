@@ -3,13 +3,8 @@ Les titres (Headings)
 # Titre (GRAND)
 ## Titre (Moyen)
 ### Titre (petit)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-Formatage du texte  
+
+&nbsp;Formatage du texte  
   
 **texte gras**  
 *texte italique*	
