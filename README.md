@@ -3,12 +3,12 @@ Les titres (Headings)
 # Titre (GRAND)
 ## Titre (Moyen)
 ### Titre (petit)
-  
-  
-
-
-
-  
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
 Formatage du texte  
   
 **texte gras**  
