@@ -44,7 +44,7 @@ Liste de tâches (checkboxes)
 Les liens
 
 [Texte du lien](https://github.com/Arthur-Meric)
-[Lien vers section](#titre) 
+[Lien vers section](#titre-moyen) 
 [Fichier local](./docs/guide.md)
 
 
