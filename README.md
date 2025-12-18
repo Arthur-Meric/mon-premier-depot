@@ -45,7 +45,7 @@ Les liens
 
 [Texte du lien](https://github.com/Arthur-Meric)
 [Lien vers section](#titre-moyen) 
-[Fichier local](./docs/autre-doc.txt)
+[Fichier local](./docs/autre_doc.txt)
 
 
 
