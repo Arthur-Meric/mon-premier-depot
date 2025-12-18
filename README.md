@@ -57,11 +57,13 @@ Les liens
 
 Les images
 
-![Texte alt](https://avatars.githubusercontent.com/u/149785053?v=4.png)
+![Texte alt](https://avatars.githubusercontent.com/u/149785053?v=4.png) (cette image-ci s'ouvrira dans un nouvel onglet si on clique dessus)
 
-[![Alt](https://avatars.githubusercontent.com/u/149785053?v=4.png)](autre_doc.txt)
+[![Alt](https://avatars.githubusercontent.com/u/149785053?v=4.png)](autre_doc.txt) (cette image-ci mènera à un document du répository si on clique dessus)
 
 
+Maintenant simplement redimensionnée et centrée :
+<p align="center"><img src="https://avatars.githubusercontent.com/u/149785053?v=4.png" width="300"></p>
 
 
 
