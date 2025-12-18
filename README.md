@@ -59,7 +59,7 @@ Les images
 
 ![Texte alt](https://avatars.githubusercontent.com/u/149785053?v=4.png)
 
-[![Alt](https://avatars.githubusercontent.com/u/149785053?v=4.png)](lien)
+[![Alt](https://avatars.githubusercontent.com/u/149785053?v=4.png)](autre_doc.txt)
 
 
 
