@@ -3,22 +3,17 @@ Les titres (Headings)
 # Titre (GRAND)
 ## Titre (Moyen)
 ### Titre (petit)
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 ---
 Formatage du texte  
-  
+
 **texte gras**  
 *texte italique*	
-  
-  
-  
-  
-  
-  
+<br/>
+<br/>
+<br/>
 Les listes  
   
 Liste à puces
