@@ -22,24 +22,25 @@ Formatage du texte
 <br/>
 <br/>
 Les listes  
-  
+
 Liste à puces
 - Premier élément
 - Deuxième élément
   - Sous-élément
+<br/>
+<br/>
+<br/>
 
-
-  
 Liste de tâches (checkboxes)  
   
 - [x] Tâche terminée
 - [ ] Tâche à faire
-
-
-
-
-
-  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 Les liens  
   
 [Lien vers section du README](#titre-moyen)  
