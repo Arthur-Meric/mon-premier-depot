@@ -16,6 +16,7 @@ Les titres (Headings)
 Formatage du texte
 
 **texte gras**
+
 *texte italique*	
 
 
@@ -44,10 +45,21 @@ Liste de tâches (checkboxes)
 Les liens
 
 [Texte du lien](https://github.com/Arthur-Meric)
+
 [Lien vers section](#titre-moyen) 
+
 [Fichier local](./autre_doc.txt)
 
 
+
+
+
+
+Les images
+
+![Texte alt](https://avatars.githubusercontent.com/u/149785053?v=4.png)
+
+[![Alt](img.png)](lien)
 
 
 
