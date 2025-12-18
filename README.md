@@ -77,3 +77,59 @@ Intégrer des vidéos YouTube (il faut mettre une image *liée* à une vidéo)
 
 
 
+
+Blocs de code
+
+```javascript
+function hello() {
+  console.log("Hello!");
+}
+```
+
+```python
+print("hello world")
+```
+
+
+
+
+
+
+Éléments avancés
+
+Emojis
+
+:white_check_mark:
+:x:
+:warning:
+:bug:
+:rocket:
+:star:
+
+
+
+Badges
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Tests](https://img.shields.io/badge/tests-passing-green)
+
+
+
+Sections dépliables
+
+<details>
+<summary>Cliquez pour voir plus</summary>
+Contenu caché ici...
+</details>
+
+
+
+Alertes GitHub
+
+> [!NOTE]
+> Information utile.
+
+> [!WARNING]
+> Attention requise.
+
+
