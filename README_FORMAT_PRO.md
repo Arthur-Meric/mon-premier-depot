@@ -2,9 +2,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 ### Badges  
 <br/>
