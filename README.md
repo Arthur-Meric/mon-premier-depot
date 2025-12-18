@@ -3,12 +3,12 @@ Les titres (Headings)
 # Titre (GRAND)
 ## Titre (Moyen)
 ### Titre (petit)
-
-
-
-
-
-
+<ins> </ins>
+<ins> </ins>
+<ins> </ins>
+<ins> </ins>
+<ins> </ins>
+<ins> </ins>
 Formatage du texte  
   
 **texte gras**  
